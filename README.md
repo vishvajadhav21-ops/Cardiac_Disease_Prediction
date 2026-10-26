@@ -87,6 +87,8 @@ python -m pip install -r requirements.txt
 
 ### 4. Run the Streamlit application
 
+Run using - ` py -m streamlit run app.py`
+
 On Windows, you can also use:
 
 ```bash
